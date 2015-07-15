@@ -1,0 +1,20 @@
+body {
+    zoom: 0.75;
+    height: 100%;
+    background: #000;
+}
+
+canvas {
+    display: block;
+    margin: 30px auto;
+    position: relative;
+    width: 1400px;
+    height: 485px;
+    background: #ccc;
+    border-style: solid;
+    border-width: 4px;
+    border-left-color: #99B4E1;
+    border-top-color: #99B4E1;
+    border-right-color: #4A5B89;
+    border-bottom-color: #4A5B89;
+}
